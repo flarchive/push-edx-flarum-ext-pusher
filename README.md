@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of push-edx/flarum-ext-pusher.** Not for installation: use [Packagist](https://packagist.org/packages/push-edx/flarum-ext-pusher) or the [upstream repository](https://github.com/Push-EDX/flarum-ext-pusher).
 
-**0** versions archived · Latest: [`0.1.2-beta.5`](https://github.com/flarchive/push-edx-flarum-ext-pusher/tree/archive/v0.1.2-beta.5) · License: `MIT` · Flarum: `^0.1.0-beta.5`
+**4** versions archived · Latest: [`0.1.2-beta.5`](https://github.com/flarchive/push-edx-flarum-ext-pusher/tree/archive/v0.1.2-beta.5) · License: `MIT` · Flarum: `^0.1.0-beta.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.1-beta.5` | 2016-05-14 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/push-edx-flarum-ext-pusher/tree/archive/v0.1.1-beta.5) |
+| `0.1.2-beta.5` | 2016-05-14 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/push-edx-flarum-ext-pusher/tree/archive/v0.1.2-beta.5) |
+| `v0.1.0-beta.3` | 2015-11-02 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/push-edx-flarum-ext-pusher/tree/archive/v0.1.0-beta.3) |
+| `v0.1.0-beta.5` | 2016-03-29 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/push-edx-flarum-ext-pusher/tree/archive/v0.1.0-beta.5) |
 
 Catalog entry: [packages/push-edx-flarum-ext-pusher.json](https://github.com/flarchive/archive-index/blob/main/packages/push-edx-flarum-ext-pusher.json)
 
